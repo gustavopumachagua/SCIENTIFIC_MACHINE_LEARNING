@@ -1,0 +1,14 @@
+# Dependencias de los ejemplos. Python >= 3.10.
+# Los mínimos del núcleo numérico corresponden al entorno comprobado.
+numpy>=2.2.6,<3
+scipy>=1.15.3,<2
+matplotlib>=3.9,<4
+pillow>=9,<13
+sympy>=1.12,<2
+pandas>=2.2.2,<3
+scikit-learn>=1.7.2,<2
+torch>=2.14.1,<3
+jupyterlab>=4,<5
+ipykernel>=6,<8
+nbformat>=5.9,<6
+nbclient>=0.9,<1
